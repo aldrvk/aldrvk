@@ -1,8 +1,8 @@
 ![Header](/img/github-header-banner.png)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aldrvk&label=Profile%20views&color=0e75b6&style=flat" alt="aldrvk" /> </p>
-<h4 align="center">A highly motivated Information
+<h3 align="center">A highly motivated Information
 Technology student at the University
-of Sumatera Utara</h4>
+of Sumatera Utara</h3>
 - I’m currently studying at **Universitas Sumatera Utara**
 
 - I’m currently learning **courses, frameworks, web development, and more**
