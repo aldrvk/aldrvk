@@ -29,10 +29,12 @@ aldriknoelsianipar" target="blank"><img align="center" src="https://img.shields.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrvk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### Other...
-<img src="https://raw.githubusercontent.com/aldrvk/aldrvk/output/snake.svg" alt="Snake animation" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldrvk/aldrvk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldrvk/aldrvk/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aldrvk/aldrvk/output/pacman-contribution-graph.svg">
 </picture>
+###
+<img src="https://raw.githubusercontent.com/aldrvk/aldrvk/output/snake.svg" alt="Snake animation" />
+
+###
