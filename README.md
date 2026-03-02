@@ -30,7 +30,7 @@ of Sumatera Utara</h3>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react  X-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
@@ -46,19 +46,21 @@ of Sumatera Utara</h3>
 </div>
 
 ### My GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aldrvk&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=aldrvk&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aldrvk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aldrvk&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aldrvk&theme=dark&hide_border=true"  />
+   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aldrvk&hide=TeX,OpenEdge%20ABL&layout=compact&show_icons=true&theme=dark&count_private=true" alt="aldrvk" width="420"/>
+</p>
 
 ### Other...
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aldrvk/aldrvk/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aldrvk/aldrvk/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/aldrvk/aldrvk/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 <img src="https://raw.githubusercontent.com/aldrvk/aldrvk/output/snake.svg" alt="Snake animation" />
 
